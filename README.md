@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_LINK_HERE" width="75%" />
+  <img src="ChatGPT Image Dec 8, 2025, 11_43_39 AM.png" width="75%" />
 </p>
 
 <h1 align="center">🌷 Hey, I'm Rachana! 🌷</h1>
