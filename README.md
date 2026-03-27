@@ -27,7 +27,7 @@
 
 ### 🌷 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### 🌷 Web Development (Learned)  
