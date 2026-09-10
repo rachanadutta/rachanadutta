@@ -72,18 +72,6 @@
 
 ---
 
-## 🌸 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rachanadutta&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rachanadutta&show_icons=true&hide_title=true&theme=rose_pine&hide_border=true&include_all_commits=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachanadutta&layout=compact&theme=rose_pine&hide_border=true" width="40%" />
-</p>
-
----
 
 ## 💌 Connect With Me
 
